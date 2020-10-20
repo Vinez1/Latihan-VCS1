@@ -103,4 +103,6 @@ Setelah file README.md diedit, silahkan Simpan file tersebut dengan cara CTRL+S 
 
 ![Hasil Repository](foto/Hasil.Repository.png) <br>
 
-# Sekian Dari Saya Terima Kasih. 
+# Sekian Dari Saya Terima Kasih. <br>
+
+# Fery Affandi
