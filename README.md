@@ -62,3 +62,19 @@
 
 ![Git Bash](foto/GitBash.png) <br>
 
+* Pop Up Command Prompt (CMD) akan terbuka. Pada proses ini kita akan melakukan download file repository yang tadi dibuat, dengan mengetikkan syntax berikut :
+
+`git clone [URL] pada contohnya, saya akan memasukan git clone`
+https://github.com/Vinez1/Latihan-VCS1.git
+
+![Git Commit](foto/git.commit.png) <br>
+
+*Setelah proses cloning selesai, pada saat ini kita masih pada folder awal (master), kita harus masuk kedalam folder yang telah dicloning tadi yaitu LatihanVCS dengan mengetikkan syntax berikut : <br>
+
+`cd latihan-VCS1/`
+
+![git Cd](foto/cd.png) <br>
+
+* Saat ini kita sudah masuk kedalam folder LatihanVCS, Silahkan edit file README.md yang ada di File Explorer. Bisa menggunakan Text Editor (Sublime Text, Notepad, Notepad++, Visual Studio Code). Edit sesuai dengan keinginan. Aturan file .md (Markdown) bisa dilihat di Link berikut ini : [click here](https://guides.github.com/features/mastering-markdown/) <br>
+
+![README.md](foto/Readme.png) <br>
