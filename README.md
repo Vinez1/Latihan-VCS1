@@ -12,4 +12,8 @@
 
 ![gitscm](foto/GitBush.png)
 
-fdfbfjgf
+* Setelah file terdownload, silahkan instalasi dengan referensi berikut ini : [Git installation guide](https://git-scm.com/book/en/v2/getting-Started-Installing-Git) <br>
+
+
+![installing](foto/installing.png) <br>
+
