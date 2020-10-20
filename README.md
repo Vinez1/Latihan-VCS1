@@ -64,17 +64,43 @@
 
 * Pop Up Command Prompt (CMD) akan terbuka. Pada proses ini kita akan melakukan download file repository yang tadi dibuat, dengan mengetikkan syntax berikut :
 
-`git clone [URL] pada contohnya, saya akan memasukan git clone`
+`git clone [URL] pada contohnya, saya akan memasukan git clone` <br>
 https://github.com/Vinez1/Latihan-VCS1.git
 
 ![Git Commit](foto/git.commit.png) <br>
 
 *Setelah proses cloning selesai, pada saat ini kita masih pada folder awal (master), kita harus masuk kedalam folder yang telah dicloning tadi yaitu LatihanVCS dengan mengetikkan syntax berikut : <br>
 
-`cd latihan-VCS1/`
+`cd latihan-VCS1/` <br>
 
 ![git Cd](foto/cd.png) <br>
 
 * Saat ini kita sudah masuk kedalam folder LatihanVCS, Silahkan edit file README.md yang ada di File Explorer. Bisa menggunakan Text Editor (Sublime Text, Notepad, Notepad++, Visual Studio Code). Edit sesuai dengan keinginan. Aturan file .md (Markdown) bisa dilihat di Link berikut ini : [click here](https://guides.github.com/features/mastering-markdown/) <br>
 
 ![README.md](foto/Readme.png) <br>
+
+Setelah file README.md diedit, silahkan Simpan file tersebut dengan cara CTRL+S atau File -> Save <br>
+
+* Langkah selanjutnya setelah file disimpan, kita kembali pada App Git Bash (CMD). Ketik pada Git Bash seperti berikut ini : <br>
+
+`git add .` <br>
+
+![Git add](foto/git.add.png) <br>
+
+* Setelah selesai melakukan git add . langkah berikutnya kita akan melakukan *commit. Fungsi commit adalah untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository. Ketik pada App Git Bash seperti berikut ini : <br>
+
+`git commit "Update README.md"` <br>
+
+![git.commit](foto/git.commit.png) <br>
+
+* Git commit telah selesai di lakukan. Untuk saat ini akan melakuka Git Push, Git Push berfungsi untuk mengirimkan perubahan file setelah di commit ke remote repository. Silahkan ketik pada App Git Bash seperti berikut : <br>
+
+`Git Push` <br>
+
+![GitPush](foto/gitpush.png) <br>
+
+* Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di commit dan push dari remote. <br>
+
+![Hasil Repository](foto/Hasil.Repository.png) <br>
+
+# Sekian Dari Saya Terima Kasih. 
