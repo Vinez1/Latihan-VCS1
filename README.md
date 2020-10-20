@@ -50,3 +50,7 @@
 
 ![Nama Repository](foto/Nama-repository.png) <br>
 
+* Jika repository sudah dibuat maka akan muncul tampilan seperti dibawah : <br>
+
+![Hasil Repository](foto/Hasil.Repository.png) <br>
+
