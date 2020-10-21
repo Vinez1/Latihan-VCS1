@@ -75,7 +75,7 @@
 `git clone [URL] pada contohnya, saya akan memasukan git clone` <br>
 https://github.com/Vinez1/Latihan-VCS1.git
 
-![Git Commit](foto/git.commit.png) <br>
+![GitClone](foto/git.clone.png) <br>
 
 *Setelah proses cloning selesai, pada saat ini kita masih pada folder awal (master), kita harus masuk kedalam folder yang telah dicloning tadi yaitu LatihanVCS dengan mengetikkan syntax berikut : <br>
 
