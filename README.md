@@ -29,7 +29,15 @@
 
 `git commit --global user.email "masuka email anda"` <br>
 
-![Git Config](foto/GitBikinUser.png) <br>
+![Git Config](foto/gitconfig1.png) <br>
+
+* Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikkan pemerintah berikut : <br>
+
+`git config --global user.name` <br>
+
+`git config --global user.email` <br>
+
+![GitConfig1](foto/gitconfig2.png) <br>
 
 * Buat akun di **Github**, seperti contoh dibawah ini. Dan lakukan verifikasi melalui akun email yang sudah terdaftar.
 
